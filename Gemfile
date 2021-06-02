@@ -8,6 +8,9 @@ gem 'fog-aws'
 gem 'carrierwave'
 gem 'mini_magick'
 
+gem 'bootstrap-sass', '~> 3.4.1'
+gem 'jquery-rails'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.5'
 # Use postgresql as the database for Active Record
